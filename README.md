@@ -1,5 +1,5 @@
 # 🚀 Hey, I'm Dilith Samarakoon!
-### ⚡ Computer Engineer | AI & Robotics Enthusiast | Cyber Security Explorer
+### ⚡ Computer Engineering Undergraduate | AI & Robotics Enthusiast | Cyber Security Explorer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=thicket&color=auto&height=200&section=header&text=Innovation%20In%20Motion&fontSize=70" width="100%" />
