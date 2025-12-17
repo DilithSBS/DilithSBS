@@ -1,4 +1,4 @@
-# 🚀 Hello World, I'm [Your Name]!
+# 🚀 Hey, I'm Dilith Samarakoon!
 ### ⚡ Computer Engineer | AI & Robotics Enthusiast | Cyber Security Explorer
 
 <p align="center">
@@ -11,13 +11,13 @@
 I am a passionate **Computer Engineer** dedicated to bridging the gap between hardware and intelligent software. My journey involves building autonomous systems, securing digital infrastructures, and exploring the frontiers of Machine Learning.
 
 * 🔭 **Currently working on:** [Project Name or "Self-Driving Mini Bot"]
-* 🌱 **Learning:** Advanced Reinforcement Learning & Penetration Testing
-* 💬 **Ask me about:** Python, ROS2, Neural Networks, or Linux Hardening
-* ⚡ **Fun Fact:** I once debugged a robot for 6 hours only to realize the battery was upside down.
+* 🌱 **Learning:** Competitive Programming, Netwoking, Software Developing, Electronics, Data Structures & Algorithms
+* 💬 **Ask me about:** Python, C, Assembly, Microcontrollers, ROS2, Machine Leaning, or Competitve Programming
+<!-- * ⚡ **Fun Fact:** I once debugged a line following robot over night only to realize the battery was upside down. -->
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stuff
 
 ### 🧠 Artificial Intelligence & ML
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,24 +50,18 @@ I am a passionate **Computer Engineer** dedicated to bridging the gap between ha
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Project Alpha** | `Python`, `YOLOv8` | Real-time object detection for autonomous drones. |
-| **ShieldWall** | `C++`, `Linux` | A lightweight firewall script for IoT devices. |
-| **Neuro-Bot** | `ROS`, `PyTorch` | Integrating LLMs into hardware for voice-controlled movement. |
+| **Line following robot - team whiskers** | `Arduino`, `ESP32`, `PID` | Robot to follow a given path smoothly without human interference |
+| **libtiny3d** | `C`, `3D Graphics` | A 3D rendering graphics library built from scratch using C language. |
+| **ASM - Shell** | `Assembly`, `CMD` | A Command Prompt built from scratch using Assembly language |
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="_blank">
+  <a href="www.linkedin.com/in/dilith-samarakoon-409893220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[YOUR-TWITTER]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://[YOUR-WEBSITE].com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR-EMAIL]" target="_blank">
+  <a href="mailto:e23336@eng.pdn.ac.lk" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
