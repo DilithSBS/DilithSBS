@@ -89,7 +89,7 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Line following robot - team whiskers** | `Arduino`, `ESP32`, `PID` | Robot to follow a given path smoothly without human interference |
+| **Line following robot - team whiskers** | `Arduino`, `ESP32`, `PID`, `embedded systems` | Robot to follow a given path smoothly without human interference |
 | **libtiny3d** | `C`, `Graphics`, `Mathematics` | A 3D rendering graphics library built from scratch using C language. |
 | **ASM - Shell** | `Assembly`, `CMD` | A Command Prompt built from scratch using Assembly language |
 
