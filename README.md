@@ -83,6 +83,8 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DilithSBS)
 
+![My GitHub stats](https://github.com/DilithSBS/github-readme-stats)
+
 ---
 
 ## 📂 Featured Projects
