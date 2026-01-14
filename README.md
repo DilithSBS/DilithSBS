@@ -77,13 +77,12 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilithSBS&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilithSBS)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilithSBS&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DilithSBS)
 
-![My GitHub stats](https://github.com/DilithSBS/github-readme-stats)
 
 ---
 
