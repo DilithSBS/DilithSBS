@@ -32,7 +32,7 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=py,opencv,sklearn&perline=5" alt="Tech Icons" />
 </p> -->
-  <!-- <img src="https://skillicons.dev/icons?i=c,assembly,py,pytorch,opencv,tensorflow,sklearn,arduino,c,cpp,js,html,css,git,github,matlab,octave&perline=10" alt="Tech Icons" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=c,assembly,py,pytorch,sklearn,arduino,c,js,html,css,git,github&perline=10" alt="Tech Icons" /> -->
   
 ---
 ### 🤖 Robotics & Embedded Systems
