@@ -83,7 +83,7 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DilithSBS)
 
-![GitHub Activity](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity](https://github.com/DilithSBS/DilithSBS/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📂 Featured Projects
