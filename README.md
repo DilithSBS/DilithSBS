@@ -15,7 +15,7 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
 * 💬 **Ask me about:** Python, C, Assembly, Microcontrollers, ROS2, Machine Leaning, or Competitve Programming
 <!-- * ⚡ **Fun Fact:** I once debugged a line following robot over night only to realize the battery was upside down. -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,opencv,raspberrypi,react,kali,arduino,c,js,html,css,git,github,matlab,dotnet,latex,windows,linux,ubuntu,vscode,,,,nodejs,ps,powershell,bash&perline=10" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,py,pytorch,raspberrypi,react,kali,arduino,git,github,latex,windows,linux,ubuntu,vscode,,,,nodejs,ps,powershell,bash&perline=10" alt="Tech Icons" />
   <!-- <img src="https://skillicons.dev/icons?i=c,assembly,py,pytorch,opencv,tensorflow,sklearn,arduino,c,cpp,js,html,css,git,github,matlab,octave&perline=10" alt="Tech Icons" /> -->
 </p>
 
