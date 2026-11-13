@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I%20am%20Dilith%20Samarakoon&descAlign=50&fontSize=50&descAlignY=54&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Undergraduate%20|%20AI%20and%20Robotics%20Enthusiast%20|%20Cyber%20Security%20Explorer&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I%20am%20Dilith&descAlign=50&fontSize=50&descAlignY=54&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Undergraduate%20|%20AI%20and%20Robotics%20Enthusiast%20|%20Cyber%20Security%20Explorer&descSize=14" />
 
 <h2 align="center">🛰️ About Me</h2>
 
