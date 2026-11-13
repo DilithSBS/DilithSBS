@@ -10,8 +10,8 @@
 ## 🛰️ About Me
 I am a passionate who is dedicated to bridging the gap between hardware and intelligent software. My journey involves building autonomous systems, securing digital infrastructures, and exploring the frontiers of Machine Learning.
 
-* 🔭 **Currently working on:** Second Year Software Development Project
-* 🌱 **Learning:** Competitive Programming, Netwoking, Software Developing, Electronics, Data Structures & Algorithms
+* 🔭 **Currently working on:** Thirf Year Cyber Physical System Development Project
+* 🌱 **Learning:** Competitive Programming, Netwoking, Software Developing, Electronics, Data Structures & Algorithms, Computer Architecture, AI/ML, Image Processing and signal processing
 * 💬 **Ask me about:** Python, C, Assembly, Microcontrollers, ROS2, Machine Leaning, or Competitve Programming
 <!-- * ⚡ **Fun Fact:** I once debugged a line following robot over night only to realize the battery was upside down. -->
 <p align="center">
