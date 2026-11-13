@@ -1,122 +1,164 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I%20am%20Dilith%20Samarakoon&descAlign=50&fontSize=50&descAlignY=54&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Undergraduate%20|%20AI%20and%20Robotics%20Enthusiast%20|%20Cyber%20Security%20Explorer&descSize=14" />
-
-
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I%20am%20Dilith%20Samarakoon&descAlign=50&fontSize=50&descAlignY=54&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Undergraduate%20%7C%20AI%20%26%20Robotics%20Enthusiast&descSize=15" width="100%" />
 </p>
 
+<h2 align="center">🛰️ About Me</h2>
+
+I'm a Computer Engineering undergraduate at the **University of Peradeniya**, passionate about bridging the gap between hardware and intelligent software.
+
+I enjoy exploring how computers work at different levels — from low-level architecture and embedded systems to machine learning, robotics, and intelligent autonomous systems.
+
+- 🔭 **Currently working on:** Dual-Arm Cyber-Physical Observation & Tracking System for Swarm Robotics.
+- 🌱 **Currently exploring:** Robotics, ROS 2, Computer Architecture, Distributed Systems, Cybersecurity, AI/ML, Computer Vision, and Signal Processing.
+- 🧠 **Research interests:** Neuromorphic Computing, Spiking Neural Networks, Low-Power AI, Embedded Intelligence, and Autonomous Systems.
+- 💬 **Ask me about:** Python, C/C++, Assembly, Microcontrollers, Computer Architecture, Machine Learning, ROS 2, and Competitive Programming.
+- ⚡ **Interests:** Building things from the ground up, experimenting with hardware, and understanding what's happening under the hood.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,opencv,arduino,raspberrypi,linux,ubuntu,kali,bash,git,github,matlab,latex,vscode&perline=8" />
+</p>
 
 ---
 
-## 🛰️ About Me
-I am a passionate who is dedicated to bridging the gap between hardware and intelligent software. My journey involves building autonomous systems, securing digital infrastructures, and exploring the frontiers of Machine Learning.
+## 🛠️ Technical Skills
 
-* 🔭 **Currently working on:** Thirf Year Cyber Physical System Development Project
-* 🌱 **Learning:** Competitive Programming, Netwoking, Software Developing, Electronics, Data Structures & Algorithms, Computer Architecture, AI/ML, Image Processing and signal processing
-* 💬 **Ask me about:** Python, C, Assembly, Microcontrollers, ROS2, Machine Leaning, or Competitve Programming
-<!-- * ⚡ **Fun Fact:** I once debugged a line following robot over night only to realize the battery was upside down. -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,py,pytorch,raspberrypi,react,kali,arduino,git,github,latex,windows,linux,ubuntu,vscode,nodejs,ps,bash&perline=10" alt="Tech Icons" />
-  <!-- <img src="https://skillicons.dev/icons?i=c,assembly,py,pytorch,opencv,tensorflow,sklearn,arduino,c,cpp,js,html,css,git,github,matlab,octave&perline=10" alt="Tech Icons" /> -->
-</p>
+### 🧠 Artificial Intelligence & Machine Learning
 
----
-
-## 🛠️ Technical Stuff
-
-### 🧠 Artificial Intelligence & ML
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,opencv,sklearn&perline=5" alt="Tech Icons" />
-</p> -->
-  <!-- <img src="https://skillicons.dev/icons?i=c,assembly,py,pytorch,sklearn,arduino,c,js,html,css,git,github&perline=10" alt="Tech Icons" /> -->
-  
----
+- Deep Learning and Neural Networks
+- Computer Vision and Image Processing
+- Spiking Neural Networks (SNNs)
+- Time-Series Prediction
+- Model Training, Evaluation, and Optimization
+
 ### 🤖 Robotics & Embedded Systems
-![ROS2](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### 🛡️ Cyber Security & Networking
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,powershell,bash&perline=5" alt="Tech Icons" />
-</p> -->
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-![Kali](https://img.shields.io/badge/Kali-262626?style=for-the-badge&logo=kalilinux&logoColor=white)
+- Embedded Systems Development
+- Microcontroller Programming
+- Autonomous Robotics
+- Robot Simulation and Control
+- Sensor Integration and Electronics
+
+### 💻 Computer Architecture & Low-Level Systems
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-543978?style=for-the-badge)
+
+- Digital Logic Design
+- Processor Architecture and Design
+- Assembly Language Programming
+- Hardware Description Languages
+- Low-Level Software Development
+
+### 🛡️ Cybersecurity & Networking
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-262626?style=for-the-badge&logo=metasploit&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+- Network Fundamentals and Analysis
+- Linux Systems
+- Cybersecurity Fundamentals
+- Network Traffic Analysis
 
-### 🌐 Full-Stack Web Development
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,github,py&perline=5" alt="Tech Icons" />
-</p> -->
+### 🌐 Software & Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+- Application Development
+- Database Systems
+- API Development
+- Collaborative Software Development
 
-### 💻 Programming Languages
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,github,py&perline=5" alt="Tech Icons" />
-</p> -->
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🚀 Featured Projects
+
+A collection of projects exploring different areas of Computer Engineering, from low-level hardware design to intelligent autonomous systems.
+
+### 🧠 AI, Machine Learning & Computer Vision
+
+| Project | Technologies | Description |
+|---|---|---|
+| **SNN Doom Agent (SNAP-V)** | Python, PyTorch, SNN, ViZDoom | Neuromorphic-inspired autonomous Doom agent integrating visual observations, telemetry, and spiking neural networks. |
+| **PCB Bare Board Defect Detection** | Python, YOLOv11, Computer Vision | Deep-learning-based detection and localization of defects in bare PCB boards. |
+| **Air Pollution Prediction** | Python, PyTorch, Time-Series ML | Temporal neural network models for PM2.5 air pollution prediction. |
+| **Tea Plant Analysis** | Python, Data Processing, Computer Vision | Data annotation and preprocessing for tea plant analysis under a solar-panel-based agricultural study. |
+
+### 🤖 Robotics & Embedded Systems
+
+| Project | Technologies | Description |
+|---|---|---|
+| **Dual-Arm Cyber-Physical Observation & Tracking System** | ROS 2, Raspberry Pi, Robotics, Computer Vision | A two-arm robotic observation system designed to autonomously locate and track mobile robots in a swarm robotics environment. |
+| **ESP32 Embedded Systems Projects** | ESP32, C/C++, Electronics | Embedded projects involving wireless communication, sensor integration, motor control, and NeoPixel-based interfaces. |
+| **Line Following Robot – Team Whiskers** | Arduino, ESP32, PID, Embedded Systems | An autonomous line-following robot designed for smooth path tracking and control. |
+
+### 💻 Computer Architecture & Systems
+
+| Project | Technologies | Description |
+|---|---|---|
+| **8-bit Processor Design** | Digital Logic, Computer Architecture | Design and implementation of an 8-bit processor, exploring fundamental processor architecture and instruction execution. |
+| **libtiny3d** | C, Mathematics, Computer Graphics | A 3D rendering graphics library developed from scratch using C. |
+| **ASM-Shell** | Assembly Language | A command-line shell developed using Assembly Language. |
+
+### 🌐 Software Engineering
+
+| Project | Technologies | Description |
+|---|---|---|
+| **NexClinic – NexAura** | Next.js, TypeScript, Django, Supabase | A healthcare platform featuring appointment management, doctor-patient communication, and online medical advice functionality. |
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Activity](https://github.com/DilithSBS/DilithSBS/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilithSBS&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilithSBS&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilithSBS)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DilithSBS&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilithSBS&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DilithSBS)
-
----
-
-## 📂 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Line following robot - team whiskers** | `Arduino`, `ESP32`, `PID`, `embedded systems` | Robot to follow a given path smoothly without human interference |
-| **libtiny3d** | `C`, `Graphics`, `Mathematics` | A 3D rendering graphics library built from scratch using C language. |
-| **ASM - Shell** | `Assembly`, `CMD` | A Command Prompt built from scratch using Assembly language |
+<p align="center">
+  <img src="https://github.com/DilithSBS/DilithSBS/blob/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="www.linkedin.com/in/dilith-samarakoon-409893220" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Tech Icons" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilith-samarakoon-409893220" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:e23336@eng.pdn.ac.lk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Tech Icons" />
+  <a href="mailto:e23336@eng.pdn.ac.lk">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://discordapp.com/users/encoderx2121" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Tech Icons" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <!-- <a href="https://wa.me/+94710621972" target="_blank"> -->
-    <!-- <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
-        <!-- <img src="https://skillicons.dev/icons?i=gmail" alt="Tech Icons" /> -->
-    <!-- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> -->
-    <!-- <img src="https://img.shields.io/badge/[Name]-#47A248?style=for-the-badge&logo=[LogoName]&logoColor=white" /> -->
 </p>
 
-![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</p>
 
 ---
 
@@ -124,19 +166,6 @@ I am a passionate who is dedicated to bridging the gap between hardware and inte
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-
-
-<!--
-**DilithSBS/DilithSBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Building, experimenting, breaking things, and learning how they work.</i>
+</p>
